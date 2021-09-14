@@ -1,0 +1,21 @@
+html {
+	margin: 2.0em;
+}
+
+body {
+	background-color: burlywood;
+}
+
+img {
+	width: 25em;
+}
+
+h1,
+h2,
+h3,
+h4,
+ul,
+ol,
+p {
+	color: #502501;
+}
