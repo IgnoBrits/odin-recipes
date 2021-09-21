@@ -5,7 +5,6 @@
 }
 
 body {
-	display: inline;
 	background: #ff9966; /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #ff5e62, #ff9966); /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(
@@ -17,7 +16,7 @@ body {
 
 img {
 	width: 25em;
-	margin-left: 2em;
+	margin-left: 30%;
 }
 
 h1,
@@ -28,8 +27,9 @@ ul,
 ol,
 p {
 	color: #502501;
-	width: 25em;
-	margin-left: 2.5%;
+	width: 50em;
+	margin-left: 30%;
+	margin-top: 1%;
 }
 
 button {
@@ -46,7 +46,7 @@ button {
 	border-style: solid;
 	border-width: 0.2em;
 	border-color: #502501;
-	margin: 1em;
+	margin: 5% 30% 5%;
 }
 
 button:hover {
